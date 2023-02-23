@@ -1,2 +1,2 @@
 # prework-study-guide
-rework for bootcamp
+prework for bootcamp
